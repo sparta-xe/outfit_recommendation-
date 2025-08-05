@@ -23,5 +23,5 @@ A simple Python-based outfit recommendation system that suggests outfit combinat
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/outfit-recommendation-system.git
+[   git clone https://github.com/yourusername/outfit-recommendation-system.git](https://github.com/sparta-xe/outfit_recommendation-.git)
    cd outfit-recommendation-system
